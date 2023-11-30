@@ -1,0 +1,21 @@
+nick,country,stats_link,teams,maps_played,rounds_played,kd_difference,kd_ratio,rating,total_kills,headshot_percentage,total_deaths,grenade_damage_per_round,kills_per_round,assists_per_round,deaths_per_round,teammate_saved_per_round,saved_by_teammate_per_round,kast,impact
+FalleN,Brazil,https://www.hltv.org//stats/players/2023/fallen,"['SK', 'MIBR', 'Luminosity']",1538,40215,3654,1.15,1.07,27904,30.8,24250,3.5,0.69,0.11,0.6,0.08,0.08,71.8,1.08
+coldzera,Brazil,https://www.hltv.org//stats/players/9216/coldzera,"['SK', 'FaZe', 'Luminosity', 'MIBR']",1410,36822,5672,1.25,1.15,28326,49.4,22654,2.4,0.77,0.11,0.62,0.08,0.1,73.5,1.09
+KSCERATO,Brazil,https://www.hltv.org//stats/players/15631/kscerato,['FURIA'],890,23120,3730,1.28,1.15,17117,49.6,13387,5.4,0.74,0.13,0.58,0.08,0.1,75.2,1.09
+sh1ro,Russia,https://www.hltv.org//stats/players/16920/sh1ro,"['Gambit Youngsters', 'Gambit']",847,22465,5361,1.45,1.23,17320,27.9,11959,3.9,0.77,0.11,0.53,0.08,0.11,76.3,1.21
+deko,Russia,https://www.hltv.org//stats/players/20113/deko,['1WIN'],378,10219,2225,1.37,1.22,8219,36.9,5994,3.3,0.8,0.1,0.59,0.09,0.11,74.5,1.21
+El1an,Russia,https://www.hltv.org//stats/players/13281/el1an,"['Entropiq', 'Winstrike', 'EPG']",1262,33663,4681,1.23,1.13,25346,27.2,20665,2.7,0.75,0.11,0.61,0.07,0.08,70.6,1.22
+degster,Russia,https://www.hltv.org//stats/players/17306/degster,"['Spirit', 'Espada']",661,17582,3226,1.3,1.19,13820,34.8,10594,3.0,0.79,0.09,0.6,0.07,0.1,72.6,1.26
+vsm,Brazil,https://www.hltv.org//stats/players/16816/vsm,"['00NATION', 'DETONA']",533,14130,1485,1.16,1.12,10883,47.0,9398,3.1,0.77,0.13,0.67,0.09,0.1,71.7,1.25
+liTTle,Russia,https://www.hltv.org//stats/players/1088/little,"['forZe', 'RuSh3D', 'Spartak', 'Enso']",458,12159,1550,1.2,1.12,9317,27.7,7766,2.6,0.77,0.1,0.64,0.07,0.09,71.4,1.22
+kNgV-,Brazil,https://www.hltv.org//stats/players/5736/kngv,"['MIBR', 'INTZ']",827,21606,2406,1.17,1.12,16548,32.7,14142,2.1,0.77,0.1,0.65,0.08,0.09,70.1,1.22
+xsepower,Russia,https://www.hltv.org//stats/players/12733/xsepower,"['K23', 'forZe']",1219,32700,4556,1.24,1.11,23591,24.9,19035,2.2,0.72,0.08,0.58,0.07,0.08,71.3,1.2
+zorte,Russia,https://www.hltv.org//stats/players/15662/zorte,"['forZe', 'Unique']",684,18227,2218,1.2,1.11,13326,36.9,11108,2.6,0.73,0.09,0.61,0.09,0.11,72.4,1.16
+HEN1,Brazil,https://www.hltv.org//stats/players/8565/hen1,"['Immortals', 'FURIA', 'Luminosity']",1076,27940,3457,1.21,1.1,19719,28.6,16262,3.8,0.71,0.12,0.58,0.08,0.09,72.9,1.09
+Ax1Le,Russia,https://www.hltv.org//stats/players/16555/ax1le,"['Gambit Youngsters', 'Gambit']",920,24383,2458,1.16,1.1,17753,48.9,15295,5.1,0.73,0.14,0.63,0.09,0.1,72.4,1.15
+dumau,Brazil,https://www.hltv.org//stats/players/15698/dumau,"['GODSENT', 'Yeah']",432,11453,1265,1.18,1.1,8417,41.3,7152,4.6,0.73,0.13,0.62,0.08,0.11,72.5,1.12
+nython,Brazil,https://www.hltv.org//stats/players/18743/nython,"['paiN', 'RED Canids', 'Paquetá']",477,12731,1272,1.15,1.1,9580,37.9,8308,2.3,0.75,0.11,0.65,0.09,0.1,71.4,1.17
+JOTA,Brazil,https://www.hltv.org//stats/players/17861/jota,"['MIBR', 'Bravos', 'Keyd', 'Santos']",387,10061,930,1.14,1.09,7352,41.5,6422,6.4,0.73,0.16,0.64,0.1,0.1,73.2,1.14
+biguzera,Brazil,https://www.hltv.org//stats/players/18141/biguzera,['paiN'],575,15308,1437,1.15,1.09,11066,51.3,9629,5.3,0.72,0.15,0.63,0.1,0.11,73.0,1.13
+FL1T,Russia,https://www.hltv.org//stats/players/12732/fl1t,['forZe'],1214,32761,2768,1.13,1.08,24004,46.9,21236,4.3,0.73,0.13,0.65,0.09,0.11,72.3,1.07
+iDISBALANCE,Russia,https://www.hltv.org//stats/players/14273/idisbalance,"['Nemiga', 'Spirit']",856,22672,2039,1.14,1.07,16215,27.0,14176,2.5,0.72,0.1,0.63,0.09,0.09,71.7,1.13
